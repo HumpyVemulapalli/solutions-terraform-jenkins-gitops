@@ -1,7 +1,7 @@
 
 
-project_id = "-350618"
-tfstate_gcs_backend = "-350618-tfstate"
+project_id = "project1-350618"
+tfstate_gcs_backend = "project1-350618-tfstate"
 region = "us-east4"
 zones = ["us-east4-a"]
 ip_range_pods_name = "ip-range-pods"
